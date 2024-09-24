@@ -1,0 +1,112 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Bradford Hint Family Tree
+3 RIN 193264277
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 17 Oct 2023
+2 TIME 04:29:25
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I252525128936@ INDI
+1 NAME Kevin /Bradford/
+2 GIVN Kevin
+2 SURN Bradford
+1 SEX M
+1 FAMC @F2@
+1 BIRT
+2 DATE 1990
+2 PLAC Utah County, Utah, USA
+0 @I252525128937@ INDI
+1 NAME Charles Raymond /Bradford/
+2 GIVN Charles Raymond
+2 SURN Bradford
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F2@
+1 BIRT
+2 DATE 23 Jun 1883
+2 PLAC Salt Lake City, Salt Lake, Utah, USA
+1 DEAT
+2 DATE 12 Mar 1966
+2 PLAC Provo, Utah, USA
+0 @I252525128969@ INDI
+1 NAME William /Bradford/
+2 GIVN William
+2 SURN Bradford
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE abt 1858
+2 PLAC Salt Lake, Utah, USA
+1 DEAT
+2 DATE 1924
+2 PLAC Provo, Utah, USA
+1 OBJE @O1@
+2 _PRIM Y
+0 @I252525128976@ INDI
+1 NAME Alice Ellen /Winder/
+2 GIVN Alice Ellen
+2 SURN Winder
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 1 Sep 1860
+2 PLAC Salt Lake City, Salt Lake, Utah, USA
+1 DEAT
+2 DATE 27 Feb 1920
+2 PLAC Salt Lake, Utah, USA
+0 @F1@ FAM
+1 HUSB @I252525128969@
+1 WIFE @I252525128976@
+1 CHIL @I252525128937@
+1 MARR
+2 DATE 1880
+2 PLAC Provo, Utah, USA
+1 DIV
+2 DATE 1900
+2 PLAC Salt Lake, Utah, USA
+0 @F2@ FAM
+1 HUSB @I252525128937@
+1 CHIL @I252525128936@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 27358
+3 _WDTH 250
+3 _HGHT 128
+2 TITL  William Bradford
+1 RIN 512446d4-3b00-4fbc-a3b5-21615b11120d
+1 DATE 24 May 1924
+1 PLAC Salt Lake City, Salt Lake County, Utah, USA
+1 _CREA 2023-09-20 11:00:16.653
+1 _USER 9pEbP/DvXNh9GMaYxvnD2BJ++y9RvVROoudsmrvMRR2s/W/53YjQ/RgRy6Ic3mlW9lLBcMr+QtnXYi2zgf0+RQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 150784924
+2 _PID 342001132064
+2 _OID 81562fc7-9dbd-4035-94b6-59fa78ef71d5
+2 _USER G6surtSYMQG5viXhtP+jz5C2wKKcX3xelT5osRj2NRfI4LRNv7yOioj4srrNhPGujXHg1NVQusfkADTblJH5og==
+3 _ENCR 1
+2 _DATE 2018-04-29 01:20:14.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/86401584/william-bradford
+1 _MSER
+2 _LKID 81562fc7-9dbd-4035-94b6-59fa78ef71d5
+1 _ATL N
+0 TRLR

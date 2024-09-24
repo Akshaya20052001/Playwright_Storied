@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".", // This must be specified if "paths" is.
+      "paths": {
+        "@utilities/*": ["utilities/*"], 
+        "@data/*": ["data/*"] ,
+        "@tests/*": ["tests/*"]
+      },
+      "resolveJsonModule": true,
+      "esModuleInterop" : true
+    }
+  }
+  
+  

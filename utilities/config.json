@@ -1,0 +1,12 @@
+{
+    "TEST": {
+        "env":"PROD",
+        "baseUrl": "https://storied.com/",
+        "accessCode": "aprilalpha"
+},
+    "PROD": {
+        "env":"PROD",
+        "baseUrl": "https://storied.com/",
+        "accessCode": "aprilalpha"
+}
+}

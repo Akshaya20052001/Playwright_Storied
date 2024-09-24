@@ -1,0 +1,11 @@
+export const privatebutton = '//span[text()="Private"]'
+export const publicbutton = '//span[text()="Public"]'
+export const donebutton = '//span[text()="Done"]'
+export const validateConfermationMessage = '//span[text()="Story has been updated successfully"]'
+export const storyTitleValidation = (storyTitle: string) => `//span[text()='${storyTitle}']//ancestor::div[contains(@class,"story-card hover")]`;
+export const clickCheckBox = '(//input[@type="checkbox"])[1]'
+export const backButton = '//button[@data-testid="close-story"]'
+export const taggedStoryPerson = '//span[contains(@class,"text-xs typo-font-medium")]'
+export const viewTagedStoryPerson = 'a[class="btn mb-3"] span[class="text-sm"]'
+export const stories = '//span[text()="Stories"]'
+export const validateStoryDeleteConfermationMessage = '//span[text()="Story deleted successfully"]'
